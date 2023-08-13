@@ -1,5 +1,3 @@
-// breedFetcherTest.js
-
 const { fetchBreedDescription } = require("../breedFetcher");
 const { assert } = require("chai");
 
